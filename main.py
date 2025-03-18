@@ -1,3 +1,5 @@
+# Ovo je moj komentar - VašeIme
+
 def main():
     print("Hello world!")
 
